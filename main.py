@@ -53,3 +53,14 @@ while j < k:
     j = j + 1
 #endwhile
 
+#Sixth test
+p = 2
+q = 4
+
+while p < q:
+    print("Adios")
+    r = 1
+    while r < q:
+        print("Adios")
+        r += 1
+    p += 1
