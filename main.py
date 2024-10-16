@@ -18,3 +18,11 @@ while d > f:
     e -= 1
 
 print(f"d: {d}, e: {e}, f: {f}")
+
+g = 4
+h = 6
+
+while g < h:
+    g = g + 1
+
+print(f" g = {g}, h = {h}")
