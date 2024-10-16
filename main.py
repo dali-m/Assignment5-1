@@ -17,7 +17,7 @@ while d > f:
     d += 1
     e -= 1
 
-print(f"d: {d}, e: {e}, f: {f}")
+print(f"d = {d}, e = {e}, f = {f}")
 
 g = 4
 h = 6
@@ -26,3 +26,16 @@ while g < h:
     g = g + 1
 
 print(f" g = {g}, h = {h}")
+ 
+ #Fourth test
+j = 2
+k = 5
+n = 9 
+
+while j < k:
+    m = 6
+    while m < n:
+        print("Goodbye")
+        m += 1
+    j += 1
+
